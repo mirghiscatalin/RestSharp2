@@ -81,4 +81,3 @@ C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSelen
 C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\System.Configuration.Abstractions.dll
 C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\nunit.framework.xml
 C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\System.Configuration.Abstractions.pdb
-C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.csprojResolveAssemblyReference.cache

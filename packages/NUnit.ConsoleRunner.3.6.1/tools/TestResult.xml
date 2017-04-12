@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.6.1.0" clr-version="4.0.30319.42000" start-time="2017-04-12 09:09:28Z" end-time="2017-04-12 09:09:35Z" duration="6.358871">
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.6.1.0" clr-version="4.0.30319.42000" start-time="2017-04-12 10:09:24Z" end-time="2017-04-12 10:09:30Z" duration="6.438034">
   <command-line><![CDATA[nunit3-console.exe  "C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll" -params=Environment=UI;BaseUrl=http://clj-lc-ui-bcm02:8080]]></command-line>
-  <test-suite type="Assembly" id="0-1002" name="VisualSeleniumProject.dll" fullname="C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-12 09:09:29Z" end-time="2017-04-12 09:09:35Z" duration="5.879709" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+  <test-suite type="Assembly" id="0-1002" name="VisualSeleniumProject.dll" fullname="C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-12 10:09:24Z" end-time="2017-04-12 10:09:30Z" duration="5.943428" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
     <environment framework-version="3.6.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.14393.0" platform="Win32NT" cwd="C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\packages\NUnit.ConsoleRunner.3.6.1\tools" machine-name="EVO706" user="catalinmirghis" user-domain="EVO706" culture="en-US" uiculture="en-GB" os-architecture="x64" />
     <settings>
       <setting name="DisposeRunners" value="True" />
@@ -15,12 +15,12 @@
       <setting name="NumberOfTestWorkers" value="8" />
     </settings>
     <properties>
-      <property name="_PID" value="13464" />
+      <property name="_PID" value="9592" />
       <property name="_APPDOMAIN" value="domain-" />
     </properties>
-    <test-suite type="TestSuite" id="0-1003" name="VisualSeleniumProject" fullname="VisualSeleniumProject" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-12 09:09:29Z" end-time="2017-04-12 09:09:35Z" duration="5.863339" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
-      <test-suite type="TestFixture" id="0-1000" name="PocGoogleTest" fullname="VisualSeleniumProject.PocGoogleTest" classname="VisualSeleniumProject.PocGoogleTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-12 09:09:29Z" end-time="2017-04-12 09:09:35Z" duration="5.859494" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
-        <test-case id="0-1001" name="restSharpTest" fullname="VisualSeleniumProject.PocGoogleTest.restSharpTest" methodname="restSharpTest" classname="VisualSeleniumProject.PocGoogleTest" runstate="Runnable" seed="952121516" result="Passed" start-time="2017-04-12 09:09:29Z" end-time="2017-04-12 09:09:35Z" duration="5.561443" asserts="0" />
+    <test-suite type="TestSuite" id="0-1003" name="VisualSeleniumProject" fullname="VisualSeleniumProject" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-12 10:09:24Z" end-time="2017-04-12 10:09:30Z" duration="5.925876" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestFixture" id="0-1000" name="PocGoogleTest" fullname="VisualSeleniumProject.PocGoogleTest" classname="VisualSeleniumProject.PocGoogleTest" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-04-12 10:09:24Z" end-time="2017-04-12 10:09:30Z" duration="5.921211" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="0-1001" name="restSharpTest" fullname="VisualSeleniumProject.PocGoogleTest.restSharpTest" methodname="restSharpTest" classname="VisualSeleniumProject.PocGoogleTest" runstate="Runnable" seed="453844107" result="Passed" start-time="2017-04-12 10:09:24Z" end-time="2017-04-12 10:09:30Z" duration="5.613867" asserts="0" />
       </test-suite>
     </test-suite>
   </test-suite>
