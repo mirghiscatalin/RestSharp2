@@ -1,0 +1,84 @@
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\IEDriverServer-license.txt
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\IEDriverServer.exe
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\chromedriver.exe
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.pdb
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\ExtentReports.dll
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\WebDriver.dll
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\WebDriver.Support.dll
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\WebDriver.xml
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\bin\Debug\WebDriver.Support.xml
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.csprojResolveAssemblyReference.cache
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.dll
+C:\Users\voicu.vac\git\NSAutomatedTests\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.pdb
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\IEDriverServer-license.txt
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\IEDriverServer.exe
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\chromedriver.exe
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.pdb
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\ExtentReports.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\WebDriver.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\WebDriver.Support.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\WebDriver.xml
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\bin\Debug\WebDriver.Support.xml
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.pdb
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\VladVoicu_Evozon\VisualSeleniumProject\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.csprojResolveAssemblyReference.cache
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.pdb
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer-license.txt
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer.exe
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.pdb
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.dll
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.xml
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.xml
+D:\PROJECTS\SDL UNIVERSAL EDITOR\Automation Investigation\Investigation\VladVoicu_Evozon\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RelevantCodes.ExtentReports.dll
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer-license.txt
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer.exe
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.pdb
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RelevantCodes.ExtentReports.dll
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.dll
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.dll
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.xml
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.xml
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.csprojResolveAssemblyReference.cache
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.dll
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.pdb
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RestSharp.dll
+E:\@Work\SDL\POC - automation framework\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RestSharp.xml
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.csprojResolveAssemblyReference.cache
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.dll
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.pdb
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer-license.txt
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer.exe
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.pdb
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RestSharp.dll
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.dll
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.dll
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RestSharp.xml
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.xml
+C:\Users\catalinmirghis\Desktop\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.xml
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer-license.txt
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\IEDriverServer.exe
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.pdb
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RelevantCodes.ExtentReports.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RestSharp.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\RestSharp.xml
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.xml
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\WebDriver.Support.xml
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.pdb
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\VisualSeleniumProject.dll.config
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\nunit.framework.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\System.Configuration.Abstractions.dll
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\nunit.framework.xml
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\bin\Debug\System.Configuration.Abstractions.pdb
+C:\Users\catalinmirghis\Desktop\sdl\VisualSeleniumProject - skeleton\VisualSeleniumProject\obj\Debug\VisualSeleniumProject.csprojResolveAssemblyReference.cache
